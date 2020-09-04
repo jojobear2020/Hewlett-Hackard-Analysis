@@ -7,6 +7,7 @@ The purpose of the analysis is to select and analyze data for all employees that
 
 ## PROCESS
 •	We were given six separate tables/csv files that we had to to set up and join based on the primary and foreign keys
+
 •	We created new tables within the same database to exclude information that we did not necessarily need for the required analysis, specifically employees that will retire in the near future
 •	We then presented a summary table showing the number of employees by the title that will need to be replaced in the future. This is extremely helpful for HR department so they can plan their time and resources to meet the needs of the business
 

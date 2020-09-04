@@ -39,5 +39,8 @@ Given the number of all employees that may qualify for retirement soon, we saw t
 ![](https://github.com/jojobear2020/Hewlett-Hackard-Analysis/blob/master/Images/mentorship_eligibility_total_count.PNG)
 
 
+
+__________________________________________________________________________________________________________________
+
 **“Tell me and I forget, teach me and I may remember, involve me and I learn.”**
 **― Benjamin Franklin**

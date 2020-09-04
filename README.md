@@ -23,7 +23,7 @@ The purpose of the analysis is to select and analyze data for all employees that
 
 ![](https://github.com/jojobear2020/Hewlett-Hackard-Analysis/blob/master/Images/total_emp_numbers_current_v3.PNG)
 
-•	Given the number of current employees and estimated retirement age, we came up with an estimate of number of employees that may potentially retire anytime soon. Obviously, this is just a rough estimate.  For this specific analysis we factored in employees DOB. Having theses estimates may help HR and managers to plan their hiring needs for each highlighted tite/positions. 
+•	Given the number of current employees and estimated retirement age, we came up with an estimate of number of employees that may potentially retire anytime soon. Obviously, this is just a rough estimate.  For this specific analysis we factored in employees DOB. Having theses estimates may help HR and managers to plan their hiring needs for each highlighted title/positions. 
 
 ![](https://github.com/jojobear2020/Hewlett-Hackard-Analysis/blob/master/Images/retiring_titles_results.PNG)
 

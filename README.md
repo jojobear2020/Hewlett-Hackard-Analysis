@@ -32,11 +32,15 @@ The purpose of the analysis is to select and analyze data for all employees that
 ![](https://github.com/jojobear2020/Hewlett-Hackard-Analysis/blob/master/Images/mentorship_eligibility_results.PNG)
 
 ## SUMMARY
+
+***Retiring Titles***
+
 HR need to replace about 54K employees in the near future, as per information gathered during our analysis.
 
 ![](https://github.com/jojobear2020/Hewlett-Hackard-Analysis/blob/master/Images/total_emp_numbers_retiring%20(2).PNG)
 
-For mentorship program - given the number of all employees that may qualify for retirement soon, we saw that there is enough employees to mentor the next generation of successors. We have slightly under two thousands of those who may need or want to participate in the HR mentorship program. 
+***Mentorship program***
+Given the number of all employees that may qualify for retirement soon, we saw that there is enough employees to mentor the next generation of successors. We have slightly under two thousands of those who may need or want to participate in the HR mentorship program. 
 
 ![](https://github.com/jojobear2020/Hewlett-Hackard-Analysis/blob/master/Images/mentorship_eligibility_total_count.PNG)
 
@@ -44,5 +48,5 @@ For mentorship program - given the number of all employees that may qualify for 
 
 __________________________________________________________________________________________________________________
 
-**“Tell me and I forget, teach me and I may remember, involve me and I learn.”**
-**― Benjamin Franklin**
+***“Tell me and I forget, teach me and I may remember, involve me and I learn.”***
+***― Benjamin Franklin***

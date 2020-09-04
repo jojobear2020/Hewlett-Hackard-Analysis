@@ -27,8 +27,7 @@ The purpose of the analysis is to select and analyze data for all employees that
 
 •	Due to the ever-changing needs of the business world, employee training is essential and we were tasked to present a list of employees that may potentially need mentorship/ training in the near future. We were able to get that data quickly based on the data available to us and criteria presented by HR.
 
-!()mentorship_eligibility_results
-
+![](https://github.com/jojobear2020/Hewlett-Hackard-Analysis/blob/master/Images/mentorship_eligibility_results.PNG)
 
 ## SUMMARY
 HR need to replace about 54K employees, as per information seen above.

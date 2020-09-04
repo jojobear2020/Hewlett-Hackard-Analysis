@@ -15,7 +15,7 @@ The purpose of the analysis is to select and analyze data for all employees that
 
 ## RESULTS
 
-•	Hewlett-Packard is a large company with hundreds of thousands of employees existing in database - 300,024 to be precise. 
+•	Hewlett-Packard is a large company with hundreds of thousands of data rows existing in database (300,024 in our case, if to be precise). 
 
 ![ALL DATABASE ENTRIES](https://github.com/jojobear2020/Hewlett-Hackard-Analysis/blob/master/Images/total_emp_numbers_all.PNG)
 

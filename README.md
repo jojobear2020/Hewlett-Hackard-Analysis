@@ -32,7 +32,7 @@ The purpose of the analysis is to select and analyze data for all employees that
 ## SUMMARY
 HR need to replace about 54K employees, as per information seen above.
 
-!()
+![](https://github.com/jojobear2020/Hewlett-Hackard-Analysis/blob/master/Images/total_emp_numbers_retiring%20(2).PNG)
 
 Given the number of all employees that may qualify for retirement soon, we saw that there is enough employees to mentor the next generation of employees. We have slightly under two thousands of those who may need or want to participate in the HR mentorship program. 
 
